@@ -8,7 +8,6 @@
 
 ```text
 실습 및 과제/
-├── 01_Linux-and-Python.ipynb
 └── 10_10/
     ├── 01_Linux-and-Python.ipynb
     ├── 맹구_개인정보.json
