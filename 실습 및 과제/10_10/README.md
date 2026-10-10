@@ -9,7 +9,7 @@
 ```text
 실습 및 과제/
 ├── 01_Linux-and-Python.ipynb
-└── Day_01/
+└── 10_10/
     ├── 01_Linux-and-Python.ipynb
     ├── 맹구_개인정보.json
     ├── 맹구_개인정보.yaml
@@ -18,9 +18,9 @@
 ```
 
 - `01_Linux-and-Python.ipynb`: Linux 및 Python 기초 실습 노트북
-- `Day_01/01_Linux-and-Python.ipynb`: Day 01 실습 노트북
-- `Day_01/맹구_개인정보.json`, `Day_01/맹구_개인정보.yaml`: 딕셔너리 데이터를 JSON/YAML로 저장한 실습 결과
-- `Day_01/.vscode/settings.json`: VS Code 작업공간 설정
+- `10_10/01_Linux-and-Python.ipynb`: 10월 10일 실습 노트북
+- `10_10/맹구_개인정보.json`, `10_10/맹구_개인정보.yaml`: 딕셔너리 데이터를 JSON/YAML로 저장한 실습 결과
+- `10_10/.vscode/settings.json`: VS Code 작업공간 설정
 
 ## 실행 방법
 
